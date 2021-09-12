@@ -1,4 +1,4 @@
 const hello = () => 'Hello World';
-// Comment
+// Comment 2
 console.log(hello());
 exports.hello = hello;
